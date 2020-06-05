@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("testapi")
-public class QuestionsController_Nikit_P {
+public class QuestionController_Nikit_P {
 
 	public Question getQuestion(int qid) {
 
@@ -42,6 +42,10 @@ public class QuestionsController_Nikit_P {
 		} else {
 		}
 		return list;
+	}
+	//le nikit dekh bhai
+	public String getSubject() {
+		return "";
 	}
 
 }

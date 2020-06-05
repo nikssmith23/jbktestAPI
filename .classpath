@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="jbktest/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-aop-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-beans-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-context-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-core-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-expression-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-web-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Rashi Training/jars/spring 5 lib/spring-webmvc-5.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

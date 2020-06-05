@@ -43,7 +43,7 @@ public class QuestionController_Nikit_P {
 		}
 		return list;
 	}
-	//le nikit dekh bhai
+	//le nikit 
 	public String getSubject() {
 		return "";
 	}
